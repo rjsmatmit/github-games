@@ -4,7 +4,9 @@ Our mission is to create a collection of classic open source games.
 
 Play the game at `rjsmatmit.github.io/github-games`
 
-Hint:
-Just have fun using the arrow keys to change the block direction!
-Press ESC key to stop the game and restart a new game
-As the row gets fill out, your winning count goes up and whole deck is rearrange
+Left and right to move pieces.
+Down to accelerate.
+Up to rotate clockwise.
+10 points for each piece that lands.
+100 points for a single line clear.
+More points for a Double, Triple, or Tetris!
